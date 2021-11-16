@@ -22,45 +22,45 @@ El voltaje disminuyó 4 V (de 10 a 6 V).
 
 **23. Calcule el voltaje para cada valor de I y R:**
 
-A
+a) I = 2A, R = 18Ω
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R&space;\Rightarrow&space;V=2A*18\Omega&space;=36V" title="V=I*R \Rightarrow V=2A*18\Omega =36V" />
 
-B
+b) I = 5A, R = 56Ω
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R&space;\Rightarrow&space;V=5A*56\Omega&space;=280V" title="V=I*R \Rightarrow V=5A*56\Omega =280V" />
 
-C
+c) I = 2.5A, R = 680Ω
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R&space;\Rightarrow&space;V=2.5A*680\Omega&space;=1700V" title="V=I*R \Rightarrow V=2.5A*680\Omega =1700V" />
 
-D
+d) I = 0.6A, R = 47Ω
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R&space;\Rightarrow&space;V=0.6A*47\Omega&space;=28.2V" title="V=I*R \Rightarrow V=0.6A*47\Omega =28.2V" />
 
-E
+e) I = 0.1A, R = 560Ω
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R&space;\Rightarrow&space;V=0.1A*560\Omega&space;=56V" title="V=I*R \Rightarrow V=0.1A*560\Omega =56V" />
 
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:**
 
-a
+a) V = 10kV, I = 5A
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{10000V}{5A}&space;=2000\Omega&space;\to&space;2k\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{10000V}{5A} =2000\Omega \to 2k\Omega " />
 
-B
+b) V = 7V, I = 2mA
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{7V}{0.002A}&space;=3500\Omega&space;\to&space;3.5k\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{7V}{0.002A} =3500\Omega \to 3.5k\Omega " />
 
-C
+c) V = 500V, I = 250mA
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{500V}{0.250A}&space;=2000\Omega&space;\to&space;2k\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{500V}{0.250A} =2000\Omega \to 2k\Omega " />
 
-D
+d) V = 50V, I = 500μA
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{50V}{0.0005A}&space;=100000\Omega&space;\to&space;100k\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{50V}{0.0005A} =100000\Omega \to 100k\Omega " />
 
-E
+e) V = 1kV, I = 1mA
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{1000V}{0.001A}&space;=1000000\Omega&space;\to&space;1M\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{1000V}{0.001A} =1000000\Omega \to 1M\Omega " />
 
