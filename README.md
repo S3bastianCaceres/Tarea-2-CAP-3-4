@@ -86,7 +86,7 @@ E
 **23. Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;P=\frac{(1.5V)^{2}}{56\Omega&space;}=0.0402W\to&space;40.2mW" title="P=\frac{V^{2}}{R}\Rightarrow P=\frac{(1.5V)^{2}}{56\Omega }=0.0402W\to 40.2mW" />
-**
+
 **29. Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;V=\sqrt{P*R}\to&space;V=\sqrt{50\Omega&space;*1W}=7.07V" title="P=\frac{V^{2}}{R}\Rightarrow V=\sqrt{P*R}\to V=\sqrt{50\Omega *1W}=7.07V" />
