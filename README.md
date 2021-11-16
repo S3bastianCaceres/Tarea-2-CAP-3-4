@@ -16,6 +16,7 @@
 - Calcular la potencia que se presenta en un circuito, así como también describir correctamente definiciones de caída de voltaje y como se aplica en la parte práctica. 
 
  
+ **2. MARCO TEÓRICO (RESUMEN)**
  
  Capitulo 3 y 4
 
