@@ -18,6 +18,7 @@
  
  **2. MARCO TEÓRICO (RESUMEN)**
  
+ [![Resumen-Capitulo3.jpg](https://i.postimg.cc/qvHbRx5n/Resumen-Capitulo3.jpg)](https://postimg.cc/xcgypMYT)
  
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
