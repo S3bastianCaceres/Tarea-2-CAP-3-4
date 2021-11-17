@@ -57,6 +57,31 @@
 
  EJERCICIOS
 
+**1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando:**
+
+**(a) el voltaje se triplica**
+
+La corriente se triplica
+
+**(b) el voltaje se reduce en 75%**
+
+La corriente se reduce en un 75 %
+
+**(c) la resistencia se duplica**
+
+La corriente se divide a la mitad
+
+**(d) la resistencia se reduce en 35%**
+
+La corriente aumenta en un 65%
+
+**(e) el voltaje se duplica y la resistencia se reduce a la mitad**
+
+La corriente se cuadriplica
+
+**(f) el voltaje y la resistencia se duplican**
+
+La corriente no cambia
 
 **3.Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos**
 
@@ -72,6 +97,26 @@ La gráfica es una línea recta, lo que indica una relación lineal entre V e I.
 **9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo**
 
+**7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.**
+
+[![FIGURA-1-CAP3.png](https://i.postimg.cc/wxFLKDcN/FIGURA-1-CAP3.png)](https://postimg.cc/qghzyhFB)
+
+**Fórmula - ley de ohm***
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}&space;\mapsto&space;R=\frac{V}{I}&space;" title="I=\frac{V}{R} \mapsto R=\frac{V}{I} " />
+
+**En R1**
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{3V}{6\Omega}=\frac{1}{2}\Omega&space;&space;" title="R=\frac{3V}{6\Omega}=\frac{1}{2}\Omega " />
+
+**En R2**
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{6V}{6\Omega}=1\Omega&space;&space;" title="R=\frac{6V}{6\Omega}=1\Omega " />
+
+**En R3**
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{6V}{3\Omega}=2\Omega&space;&space;" title="R=\frac{6V}{3\Omega}=2\Omega " />
+
 
 **11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?**
 
@@ -79,6 +124,12 @@ gris, café, rojo**
 <img src="https://latex.codecogs.com/svg.image?\frac{50mA}{30mA}&space;=&space;\frac{10V}{?}&space;\Rightarrow&space;x=\frac{30mA*10V}{50mA}=6V" title="\frac{50mA}{30mA} = \frac{10V}{?} \Rightarrow x=\frac{30mA*10V}{50mA}=6V" />
 
 El voltaje disminuyó 4 V (de 10 a 6 V).
+
+**13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrEmentos de 10 V, para cada uno de los siguientes valores de resistencia:**
+
+
+[![FIGURA-1-1-CAP3.png](https://i.postimg.cc/vBfHJGGP/FIGURA-1-1-CAP3.png)](https://postimg.cc/YG2HgKGg)
+
 
 
 **15. Determine la corriente en cada caso:**
@@ -117,6 +168,12 @@ El voltaje disminuyó 4 V (de 10 a 6 V).
 **17. Se conecta un resistor de 10Ω a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?**
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R\Rightarrow&space;I=\frac{V}{R}\Rightarrow&space;I=\frac{12V}{10\Omega}=1.2A" title="V=I*R\Rightarrow I=\frac{V}{R}\Rightarrow I=\frac{12V}{10\Omega}=1.2A" />
+
+**19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata**
+
+Datos: V= 25V; R= amarillo,violeta, naranja, plata = 47000 ohms
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{25V}{47000\Omega&space;}=&space;5.32\mu&space;A&space;&space;" title="I=\frac{V}{R}=\frac{25V}{47000\Omega }= 5.32\mu A " />
 
 **21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta**
 
@@ -163,6 +220,12 @@ e) I = 0.1A, R = 560Ω
 (b) Caída de voltaje en el resistor
 (c) Caída de voltaje a través de cada tramo de alambre**
 
+**25. Se leen tres amperes de corriente a través de un resistor de 27 conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?**
+
+Datos: I=3A; R=27 ohms
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(3&space;A)(27\Omega&space;)=81V&space;" title="V=(I)(R)=(3 A)(27\Omega )=81V " />
+
 
 **29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:**
 
@@ -186,9 +249,16 @@ e) V = 1kV, I = 1mA
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{1000V}{0.001A}&space;=1000000\Omega&space;\to&space;1M\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{1000V}{0.001A} =1000000\Omega \to 1M\Omega " />
 
-**33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
-este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
-es el problema con el circuito?**
+**31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?**
+
+[![FIGURA-2-CAP3.png](https://i.postimg.cc/vBhgsd9y/FIGURA-2-CAP3.png)](https://postimg.cc/wytTXZ04)
+
+
+Datos: V=120V; I=0.8A
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{120&space;V}{0.8&space;A}=150&space;V&space;" title="R=\frac{V}{I}=\frac{120 V}{0.8 A}=150 V " />
+
+**33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuáles el problema con el circuito?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/141884903-341a29fa-af0a-4762-9082-8df4957e1bd6.png)
 
@@ -212,6 +282,11 @@ Si la resistencia llega a ser 0 puede producirse un cortocircuito
 <img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}&space;\Rightarrow&space;R=\frac{110V}{1A}&space;=110\Omega&space;" title="R=\frac{V}{I} \Rightarrow R=\frac{110V}{1A} =110\Omega " />
 
 <img src="https://latex.codecogs.com/svg.image?110\Omega&space;-15\Omega&space;=95\Omega&space;" title="110\Omega -15\Omega =95\Omega " />
+
+**37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?**
+
+Son cinco mediciones para encontrar el foco fundido
+
 
 ## Capitulo 4
 
