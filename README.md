@@ -290,6 +290,24 @@ Son cinco mediciones para encontrar el foco fundido
 
 ## Capitulo 4
 
+**1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.**
+
+*Formulas a utilizar:
+
+<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{Joules}{Coulums}" title="V=\frac{W}{Q}=\frac{Joules}{Coulums}" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}=\frac{Coulums}{segundos}&space;" title="I=\frac{Q}{t}=\frac{Coulums}{segundos} " />
+
+*Recordar:
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{W}{t}=\frac{Joules}{segundos}&space;" title="P=\frac{W}{t}=\frac{Joules}{segundos} " />
+
+*Volt por ampere = (V)(I)
+
+<img src="https://latex.codecogs.com/svg.image?(V)(I)=\frac{Joules}{Coulums}*\frac{Coulums}{segundo}=\frac{Joules}{segundo}&space;" title="(V)(I)=\frac{Joules}{Coulums}*\frac{Coulums}{segundo}=\frac{Joules}{segundo} " />
+
+<img src="https://latex.codecogs.com/svg.image?(V)(I)=\frac{Joules}{segundo}=\frac{W}{t}=P=&space;watts&space;" title="(V)(I)=\frac{Joules}{segundo}=\frac{W}{t}=P= watts " />
+
 **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
 ![imagen](https://user-images.githubusercontent.com/93798427/141886547-fb85dd21-468c-4440-9929-fb0f109f4c37.png)
 
@@ -298,6 +316,16 @@ Son cinco mediciones para encontrar el foco fundido
 **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{W}{t}\Rightarrow&space;W=P*t=1000J*0.05s=20000W\to&space;20kW" title="P=\frac{W}{t}\Rightarrow W=P*t=1000J*0.05s=20000W\to 20kW" />
+
+**7. Convierta las siguientes cantidades en megawatts:**
+
+<img src="https://latex.codecogs.com/svg.image?a)1000000W=1MW" title="a)1000000W=1MW" />
+
+<img src="https://latex.codecogs.com/svg.image?a)3\times&space;10^{6}=3MW" title="b)3\times 10^{6}=3MW" />
+
+<img src="https://latex.codecogs.com/svg.image?c)15\times&space;10^{7}=150\times&space;10^{6}=150MW" title="c)15\times 10^{7}=150\times 10^{6}=150MW" />
+
+<img src="https://latex.codecogs.com/svg.image?d)8700kW=&space;8&space;\times&space;10^{3}=8,7\times&space;10^{6}=8,7MW" title="d)8700kW= 8 \times 10^{3}=8,7\times 10^{6}=8,7MW" />
 
 **9. Convierta las siguientes cantidades en microwatts:**
 ![imagen](https://user-images.githubusercontent.com/93798427/141886688-6cb9951e-399c-42f7-97b4-26cc4cdbb7f9.png)
@@ -326,6 +354,17 @@ Son cinco mediciones para encontrar el foco fundido
 <img src="https://latex.codecogs.com/svg.image?24h=\frac{1h}{3600s}\Rightarrow&space;t=86400s" title="24h=\frac{1h}{3600s}\Rightarrow t=86400s" />
 <img src="https://latex.codecogs.com/svg.image?P=\frac{W}{t}\Rightarrow&space;W=P*t\to&space;0.1W*86400s=8640J" title="P=\frac{W}{t}\Rightarrow W=P*t\to 0.1W*86400s=8640J" />
 
+***13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
+
+*Conversion de horas a días:
+
+<img src="https://latex.codecogs.com/svg.image?1500kW*h=\frac{1&space;dia}{24&space;h}=62,5kW*dia" title="1500kW*h=\frac{1 dia}{24 h}=62,5kW*dia" />
+
+*Fórmula de la potencia y reemplazando datos:
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{W}{t}=\frac{62,5kWdia}{31dia}=2,016kW/dia" title="P=\frac{W}{t}=\frac{62,5kWdia}{31dia}=2,016kW/dia" />
+
+
 **15. Convierta 6700 watts-segundos en kWh.**
 ![imagen](https://user-images.githubusercontent.com/93798427/141888105-839a2d35-9381-4038-900c-186ee662de4b.png)
 
@@ -333,6 +372,15 @@ Son cinco mediciones para encontrar el foco fundido
 **17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
 
 <img src="https://latex.codecogs.com/svg.image?V=I*R\Rightarrow&space;R=\frac{V}{I}\to&space;\frac{75V}{2A}=37.5\Omega&space;" title="V=I*R\Rightarrow R=\frac{V}{I}\to \frac{75V}{2A}=37.5\Omega " />
+
+**19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**
+
+Datos: V=120V; I=3A
+
+*Fórmula de la potencia y reemplazando datos:
+
+<img src="https://latex.codecogs.com/svg.image?P=(V)(I)=(120v)(3A)=360&space;watts" title="P=(V)(I)=(120v)(3A)=360 watts" />
+
 
 **21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.**
 ![imagen](https://user-images.githubusercontent.com/93798427/141888267-33541d5c-04a4-484d-ae38-66fe6b4d46b9.png)
@@ -349,8 +397,27 @@ Son cinco mediciones para encontrar el foco fundido
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;P=\frac{(1.5V)^{2}}{56\Omega&space;}=0.0402W\to&space;40.2mW" title="P=\frac{V^{2}}{R}\Rightarrow P=\frac{(1.5V)^{2}}{56\Omega }=0.0402W\to 40.2mW" />
 
-**27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
-utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
+**25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohms.**
+
+Datos: V=12V; R=10ohms
+
+**(a) ¿Cuánta energía se utiliza en dos minutos?**
+
+*Fórmula de la potencia - ley de watts
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{v^{2}}{R}=\frac{144}{10}=14.4&space;watts" title="P=\frac{v^{2}}{R}=\frac{144}{10}=14.4 watts" />
+
+*Fórmula de la potencia
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{w}{t}\Rightarrow&space;w=(P)(t)=(14,4)(120s)=0,48Wh" title="P=\frac{w}{t}\Rightarrow w=(P)(t)=(14,4)(120s)=0,48Wh" />
+
+
+
+**(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?**
+
+La potencia es igual, solo cambia su energía.
+
+**27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
 
 12W para permitir un margen del 20%
 
@@ -360,10 +427,51 @@ utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el val
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;V=\sqrt{P*R}\to&space;V=\sqrt{50\Omega&space;*1W}=7.07V" title="P=\frac{V^{2}}{R}\Rightarrow V=\sqrt{P*R}\to V=\sqrt{50\Omega *1W}=7.07V" />
 
+
+**31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
+
+Datos: W=?;  t=90h;  V=1.25V;  R=10 ohms
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{W}{t}\Rightarrow&space;W=(P)(t)=(0,0008)(24h)\frac{3600s}{1h}=50625&space;J" title="P=\frac{W}{t}\Rightarrow W=(P)(t)=(0,0008)(24h)\frac{3600s}{1h}=50625 J" />
+
 **35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuáles la eficiencia de esta fuente de potencia?**
 
 <img src="https://latex.codecogs.com/svg.image?P_{Perdida}=P_{Entrada}-P_{Salida}=500mW-400mW=100mW" title="P_{Perdida}=P_{Entrada}-P_{Salida}=500mW-400mW=100mW" />
 <img src="https://latex.codecogs.com/svg.image?Eficiencia=\frac{P_{salida}}{P_{Entrada}}=\frac{400mW}{500mW}*100%=80%" title="Eficiencia=\frac{P_{salida}}{P_{Entrada}}=\frac{400mW}{500mW}*100%=80%" />
+
+***37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**
+
+Datos:
+
+*Potencia de entrada=2W=0.002kW
+
+*Eficiencia=60%
+
+*t=24h
+
+*Potencia total consumida = potencia de entrada + potencia de salida + potencia perdida
+
+**Potencia de salida**
+
+*Formula de la eficiencia
+
+<img src="https://latex.codecogs.com/svg.image?Eficiencia=(\frac{Potencia&space;de&space;salida}{Potencia&space;de&space;entrada})100%" title="Eficiencia=(\frac{Potencia de salida}{Potencia de entrada})100%" />
+
+<img src="https://latex.codecogs.com/svg.image?60%=(\frac{Potencia&space;de&space;salida}{Potencia&space;de&space;entrada&space;kW})100%" title="60%=(\frac{Potencia de salida}{Potencia de entrada})100%" />
+
+<img src="https://latex.codecogs.com/svg.image?Potencia&space;desalida=(0.6)(0.002kW)=0.0012kW" title="Potencia desalida=(0.6)(0.002kW)=0.0012kW" />
+
+**Potencia perdida**
+
+Potencia perdida = Potencia de entrada - Potencia de salida= 0.002 - 0.0012= 0.0008
+
+**Potencia total**
+
+Potencia total= P entrada + P salida + P perdida=0.002+0.0012+0.0008=0.004
+
+**Energía en kW - h**
+
+<img src="https://latex.codecogs.com/svg.image?W=(P)(t)=(0.004)(24h)=0.09kW&space;-&space;hora" title="W=(P)(t)=(0.004)(24h)=0.09kW - hora" />
 
 **4. VIDEO**
 
