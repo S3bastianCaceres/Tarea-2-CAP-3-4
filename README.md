@@ -259,3 +259,13 @@ utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el val
 
 <img src="https://latex.codecogs.com/svg.image?P_{Perdida}=P_{Entrada}-P_{Salida}=500mW-400mW=100mW" title="P_{Perdida}=P_{Entrada}-P_{Salida}=500mW-400mW=100mW" />
 <img src="https://latex.codecogs.com/svg.image?Eficiencia=\frac{P_{salida}}{P_{Entrada}}=\frac{400mW}{500mW}*100%=80%" title="Eficiencia=\frac{P_{salida}}{P_{Entrada}}=\frac{400mW}{500mW}*100%=80%" />
+
+**4. VIDEO**
+
+
+**5. CONCLUSIONES**
+
+
+**6. BIBLIOGRAFÍA**
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
