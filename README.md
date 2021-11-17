@@ -19,6 +19,36 @@
  **2. MARCO TEÓRICO (RESUMEN)**
  
  [![Resumen-Capitulo3.jpg](https://i.postimg.cc/qvHbRx5n/Resumen-Capitulo3.jpg)](https://postimg.cc/xcgypMYT)
+
+ <h3>CAPITULO 4</h3>
+
+ **Energía y potencia**
+
+[![CAPITULO-4-M1.png](https://i.postimg.cc/Y26RfP5k/CAPITULO-4-M1.png)](https://postimg.cc/YjSQtd2y)
+
+**Potencia en un circuito eléctrico**
+
+[![CAPITULO-4-M2.png](https://i.postimg.cc/gJ9y3y4n/CAPITULO-4-M2.png)](https://postimg.cc/nskQJDyJ)
+
+**Potencia nominal en resistores**
+
+[![CAPITULO-4-M3.png](https://i.postimg.cc/jdCWdwQ9/CAPITULO-4-M3.png)](https://postimg.cc/Mv2Z9GLb)
+
+**Conversión de energía y caída de voltaje en una resistencia**
+
+[![CAPITULO-4-M4.png](https://i.postimg.cc/zGF3xCJy/CAPITULO-4-M4.png)](https://postimg.cc/Hrjpx78m)
+
+**Fuente de potencia**
+
+[![CAPITULO-4-M5.png](https://i.postimg.cc/fThw1Vqm/CAPITULO-4-M5.png)](https://postimg.cc/ThCMD363)
+
+**Amperes - hora**
+
+[![CAPITULO-4-M6.png](https://i.postimg.cc/fy7hMvqX/CAPITULO-4-M6.png)](https://postimg.cc/H8LN2bgs)
+
+**Eficiencia en una fuente de potencia**
+
+[![CAPITULO-4-M7.png](https://i.postimg.cc/3RSvngFX/CAPITULO-4-M7.png)](https://postimg.cc/PpDJqvcJ)
  
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
