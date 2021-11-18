@@ -495,6 +495,7 @@ Potencia total= P entrada + P salida + P perdida=0.002+0.0012+0.0008=0.004
 
 **4. VIDEO**
 
+https://youtu.be/pEAOUVY7DNQ
 
 **5. CONCLUSIONES**
 
