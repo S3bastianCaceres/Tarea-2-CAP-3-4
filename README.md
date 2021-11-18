@@ -93,6 +93,10 @@ La corriente no cambia
  
 ![image](https://user-images.githubusercontent.com/93739242/141845554-18d54f3a-66e2-4a8c-b6b3-590a181a1c94.png)
 
+<img src="https://latex.codecogs.com/svg.image?\textbf{Si&space;es&space;de&space;voltaje&space;variable&space;entonces;&space;}&space;I=\frac{V}{100\Omega&space;}" title="\textbf{Si es de voltaje variable entonces; } I=\frac{V}{100\Omega }" />
+
+![image](https://user-images.githubusercontent.com/93739242/142425872-391322eb-7118-4d57-b2a2-dde1cddcfe28.png)
+
 La gráfica es una línea recta, lo que indica una relación lineal entre V e I.
 
 **9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
