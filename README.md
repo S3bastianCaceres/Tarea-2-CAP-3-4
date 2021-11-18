@@ -478,13 +478,14 @@ Potencia total= P entrada + P salida + P perdida=0.002+0.0012+0.0008=0.004
 
 **5. CONCLUSIONES**
 
--Se logró entender de forma efectiva los diferentes conceptos de voltaje, corriente e intensidad y al relacionarlos nos dimos cuenta que se trataba de una ley muy importante como es la de OHM
+- Gracias al análisis y repaso del capítulo 3 se pudo conocer el concepto de voltaje corriente e intensidad, los cuales son términos claves que fueron aplicados en la resolución de ejercicios y son muy importantes recordar durante el estudio de la materia de fundamentos de circuitos.
 
--Gracias a los conocimientos adquiridos a lo largo de los dos capítulos se pudo resolver los ejercicios, no solo memorizando las formulas sino entendiendo como funcionan.
+- El conocimiento de la formula general de la ley de ohm nos proporciona la herramienta necesaria para la resolución de varios ejercicios en el capitulo ya que a partir de esta podemos despegar y encontrar el voltaje, la corriente y la intensidad dentro de los componentes de un circuito.
 
--Se consiguió entender la potencia, así como también la energía que presenta un circuito, hicimos uso de las fórmulas para desarrollar los ejercicios.
+- Al determinar los conceptos de energía y potencia se nos facilita el comprender el como debemos expresar la potencia en función de la energía, enunciar la unidad de potencia también las unidades comunes de energía y el realizar cálculos de energía y potencia.
 
--Al leer el capítulo 4 se pudo entender de mejor manera conceptos como la caída de voltaje que serán usados posteriormente en la parte practica y profesional.
+
+- Al leer el capítulo 4 se pudo entender de mejor manera conceptos como la caída de voltaje que serán usados posteriormente en la parte practica y profesional.
 
 
 **6. BIBLIOGRAFÍA**
