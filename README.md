@@ -477,6 +477,7 @@ Potencia total= P entrada + P salida + P perdida=0.002+0.0012+0.0008=0.004
 
 
 **5. CONCLUSIONES**
+
 -Se logró entender de forma efectiva los diferentes conceptos de voltaje, corriente e intensidad y al relacionarlos nos dimos cuenta que se trataba de una ley muy importante como es la de OHM
 
 -Gracias a los conocimientos adquiridos a lo largo de los dos capítulos se pudo resolver los ejercicios, no solo memorizando las formulas sino entendiendo como funcionan.
