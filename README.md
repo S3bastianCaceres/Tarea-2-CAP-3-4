@@ -3,8 +3,8 @@
  ## Objetivos 
  
  **Objetivo General**
- 
- Analizar y calcular lay leyes matematicas pertenecientes a los circuitos electricos y asi comprovar como actuan los resistores voltajes e intencidades en serie y en paralelo, circuitos en general.
+
+Analizar y aplicar los terminos referentes a la ley de Ohm, Energía y potencia para desglosar las leyes matemáticas pertenecientes a los circuitos eléctricos y así comprobar como actúan la resistencia, el voltaje e intensidade en serie, paralelo y circuitos en general.
  
  **Objetivos Específicos**
  
@@ -284,9 +284,9 @@ Datos: V=120V; I=0.8A
 
 ![imagen](https://user-images.githubusercontent.com/93798427/141884963-655eaa45-9b69-4eb8-861c-b52db1a5dec1.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/142422389-0efeb732-3beb-42e1-a741-37d8f0cd0985.png)
+![imagen](https://user-images.githubusercontent.com/93798427/141884996-83012445-ffde-489c-8bec-f2c0b31531aa.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/142422482-2f619167-eeaa-46c5-87fb-47ee2fde7ba5.png)
+![imagen](https://user-images.githubusercontent.com/93798427/141885045-9a9c5243-050f-4480-a846-d460b2bc1e90.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/141885082-5654edb5-3294-47db-9ec6-1ff56f107759.png)
 
