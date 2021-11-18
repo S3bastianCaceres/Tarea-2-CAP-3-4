@@ -97,6 +97,25 @@ La gráfica es una línea recta, lo que indica una relación lineal entre V e I.
 **9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo**
 
+![image](https://user-images.githubusercontent.com/93739242/142345557-889443f7-6eeb-4710-99b5-09bfccf06349.png)
+
+Como el voltaje se encuentra en función de la intensidad calculamos con la ley de OHM los valores para I
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}" title="I=\frac{V}{R}" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{2V}{1.58k\Omega&space;}=1.26mA" title="I=\frac{2V}{1.58k\Omega }=1.26mA" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{4V}{1.58k\Omega&space;}=2.53mA" title="I=\frac{4V}{1.58k\Omega }=2.53mA" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{6V}{1.58k\Omega&space;}=3.79mA" title="I=\frac{6V}{1.58k\Omega }=3.79mA" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{8V}{1.58k\Omega&space;}=5.06mA" title="I=\frac{8V}{1.58k\Omega }=5.06mA" />
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{10V}{1.58k\Omega&space;}=6.33mA" title="I=\frac{10V}{1.58k\Omega }=6.33mA" />
+
+![image](https://user-images.githubusercontent.com/93739242/142345593-46b4c817-60d7-4a3f-b349-f0aca558fd38.png)
+
+
 **7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.**
 
 [![FIGURA-1-CAP3.png](https://i.postimg.cc/wxFLKDcN/FIGURA-1-CAP3.png)](https://postimg.cc/qghzyhFB)
