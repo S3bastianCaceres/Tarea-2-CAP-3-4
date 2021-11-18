@@ -443,6 +443,8 @@ La potencia es igual, solo cambia su energía.
 
 **33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
 
+<img src="https://latex.codecogs.com/svg.image?x=\frac{80Ah}{10h}=8A" title="x=\frac{80Ah}{10h}=8A" />
+
 **29. Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**
 
 <img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;V=\sqrt{P*R}\to&space;V=\sqrt{50\Omega&space;*1W}=7.07V" title="P=\frac{V^{2}}{R}\Rightarrow V=\sqrt{P*R}\to V=\sqrt{50\Omega *1W}=7.07V" />
