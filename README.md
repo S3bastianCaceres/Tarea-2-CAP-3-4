@@ -4,6 +4,7 @@
  
  **Objetivo General**
  
+ Analizar y calcular lay leyes matematicas pertenecientes a los circuitos electricos y asi comprovar como actuan los resistores voltajes e intencidades en serie y en paralelo, circuitos en general.
  
  **Objetivos Específicos**
  
